@@ -100,3 +100,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias feh="feh --scale-down"
+alias zshc="nvim ~/.zshrc"
+alias ytdl="youtube-dl -F"
+alias mdl="youtube -f 251"
