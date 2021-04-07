@@ -58,8 +58,8 @@ font-3 = "FontAwesome 5 Brands:pixelsize=10;0"
 
 modules-left = i3
 ;modules-left = bspwm i3
-;modules-center = mpd
-modules-right = filesystem alsa pulseaudio xkeyboard memory cpu wlan eth battery temperature date powermenu
+;modules-center = date
+modules-right = memory cpu wlan eth battery temperature date
 ;modules-right = filesystem xbacklight alsa pulseaudio xkeyboard memory cpu wlan eth battery temperature date powermenu
 
 tray-position = right
