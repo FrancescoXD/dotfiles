@@ -6,7 +6,6 @@ My dotfiles for i3-gaps.
 alacritty
 python-piwal
 zsh + oh-my-zsh
-pulseaudio
 siji
 unifont
 ttf-font-awesome
