@@ -3,12 +3,13 @@ My dotfiles for i3-gaps.
 
 ## Packages
 ```
-urxvt
+alacritty
 python-piwal
 zsh + oh-my-zsh
 pulseaudio
 siji
 unifont
+ttf-font-awesome
 ttf-dejavu
 ttf-liberation
 feh
