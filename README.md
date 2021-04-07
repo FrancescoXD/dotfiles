@@ -11,4 +11,5 @@ unifont
 feh
 polybar
 mpd
+flameshot
 ```
