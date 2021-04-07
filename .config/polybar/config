@@ -144,6 +144,7 @@ wrapping-scroll = false
 ws-icon-0 = 1;
 ws-icon-1 = "2;%{T3}%{T-}"
 ws-icon-2 = 3;
+ws-icon-3 = 4;
 ws-icon-default = 
 
 label-mode = %mode%
