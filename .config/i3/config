@@ -12,7 +12,6 @@
 exec_always setxkbmap it
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id feh --bg-scale ~/wallpapers/wall3.png
-exec_always --no-startup-id wal -i ~/wallpapers/wall3.png
 bindsym $mod+p exec flameshot gui
 
 for_window [class=".*"] border pixel 0
