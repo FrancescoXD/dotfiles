@@ -15,5 +15,10 @@ ttf-liberation
 feh
 polybar
 mpd
+```
+
+## Other packages
+```
 flameshot
+cmus (alsa-lib & /softvol active)
 ```
