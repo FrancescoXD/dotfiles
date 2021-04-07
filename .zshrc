@@ -102,4 +102,4 @@ source $ZSH/oh-my-zsh.sh
 alias feh="feh --scale-down"
 alias zshc="nvim ~/.zshrc"
 alias ytdl="youtube-dl -F"
-alias mdl="youtube -f 251"
+alias mdl="youtube-dl -f 251"
