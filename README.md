@@ -4,6 +4,7 @@ My dotfiles for i3-gaps.
 ## Packages
 ```
 urxvt
+python-piwal
 zsh + oh-my-zsh
 pulseaudio
 siji
