@@ -8,14 +8,18 @@ picom
 rofi
 python-pywal
 zsh + oh-my-zsh
-siji
-unifont
 ttf-font-awesome
 ttf-dejavu
 ttf-liberation
 feh
-polybar
 mpd
+```
+
+## AUR
+```
+polybar
+siji
+unifont
 ```
 
 ## Other packages
