@@ -5,6 +5,7 @@ My dotfiles for i3-gaps.
 ```
 alacritty
 picom
+rofi
 python-piwal
 zsh + oh-my-zsh
 siji
@@ -21,4 +22,5 @@ mpd
 ```
 flameshot
 cmus (alsa-lib & /softvol active)
+papirus-icon-theme
 ```
