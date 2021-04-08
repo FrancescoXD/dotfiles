@@ -6,7 +6,7 @@ My dotfiles for i3-gaps.
 alacritty
 picom
 rofi
-python-piwal
+python-pywal
 zsh + oh-my-zsh
 siji
 unifont
