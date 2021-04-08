@@ -10,7 +10,7 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 exec_always setxkbmap it
-exec_always --no-startup-id picom --experimental-backend
+exec_always --no-startup-id picom --experimental-backends
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id feh --bg-scale ~/wallpapers/wall3.png
 bindsym $mod+p exec flameshot gui
