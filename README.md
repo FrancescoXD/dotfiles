@@ -8,6 +8,7 @@ picom
 rofi
 python-pywal
 zsh + oh-my-zsh
+scrot
 ttf-font-awesome
 ttf-dejavu
 ttf-liberation
