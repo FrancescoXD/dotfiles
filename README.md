@@ -5,20 +5,26 @@ My dotfiles for i3-gaps.
 ```
 alacritty
 picom
-python-piwal
+rofi
+python-pywal
 zsh + oh-my-zsh
-siji
-unifont
 ttf-font-awesome
 ttf-dejavu
 ttf-liberation
 feh
-polybar
 mpd
+```
+
+## AUR
+```
+polybar
+siji
+unifont
 ```
 
 ## Other packages
 ```
 flameshot
 cmus (alsa-lib & /softvol active)
+papirus-icon-theme
 ```
