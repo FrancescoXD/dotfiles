@@ -8,6 +8,13 @@ input * {
 	xkb_layout "it"
 }
 
+for_window [class="^.*"] border none
+for_window [app_id="Alacritty"] border pixel 2
+for_window [class="dosbox-staging"] floating enable, border pixel 5
+
+gaps inner 5
+gaps outer 2
+
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
