@@ -5,6 +5,7 @@ My dotfiles for Sway.
 ```
 alacritty
 waybar
+rofi
 zsh + oh-my-zsh
 ttf-font-awesome
 ttf-dejavu
