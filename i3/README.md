@@ -1,6 +1,8 @@
 # dotfiles
 My dotfiles for i3-gaps.
 
+Use [polybar-themes](https://github.com/adi1090x/polybar-themes) and not this polybar config.
+
 ## Packages
 ```
 alacritty
