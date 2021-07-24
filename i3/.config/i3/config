@@ -11,13 +11,14 @@
 
 exec_always setxkbmap it
 exec_always --no-startup-id picom --experimental-backends
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+#exec_always --no-startup-id picom --experimental-backends
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh --hack
 exec_always --no-startup-id feh --bg-scale ~/wallpapers/wall3.png
 
 bindsym $mod+p exec flameshot gui
 bindsym $mod+Shift+s exec "~/.config/i3/scripts/screen_lock.sh"
 
-for_window [class=".*"] border pixel 0
+for_window [class=".*"] border pixel 5
 gaps inner 5
 gaps outer 5
 
