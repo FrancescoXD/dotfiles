@@ -1,4 +1,9 @@
-# dotfiles (Outdated, please use [chadwm](https://github.com/FrancescoXD/chadwm))
+# dotfiles
 My dotfiles.
 
-In this repo you can find my config files for i3 (Xorg) and Sway (Wayland).
+In this repo you can find my config files.
+
+## Packages
+- zsh / oh-my-zsh
+- logo-ls
+- picom
