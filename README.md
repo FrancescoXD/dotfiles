@@ -5,5 +5,8 @@ In this repo you can find my config files (.old_wm dir is for my old i3/sway con
 
 ## Packages
 - fish shell 
-- vim (see [Vundle](https://github.com/VundleVim/Vundle.vim))
+- vim/neovim (see [Vundle](https://github.com/VundleVim/Vundle.vim))
 - logo-ls (not anymore)
+
+## Wallpapers
+Check out the wallpapers branch to see my wallpapers.
