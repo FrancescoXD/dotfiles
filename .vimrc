@@ -11,6 +11,7 @@ syntax on
 set tabstop=4
 set encoding=UTF-8
 set number
+set autochdir
 
 set shell=/bin/bash		" for fish shell users
 
@@ -20,11 +21,10 @@ call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'ycm-core/YouCompleteMe'
-Plugin 'octol/vim-cpp-enhanced-highlight'
 Plugin 'preservim/nerdtree'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'ryanoasis/vim-devicons'
-Plugin 'morhetz/gruvbox'
+Plugin 'morhetz/gruvbox' " theme
 Plugin 'itchyny/lightline.vim'
 
 call vundle#end()            " required
