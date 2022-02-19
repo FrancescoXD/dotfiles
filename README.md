@@ -8,6 +8,7 @@ Now I use dwm, so check my dwm repo, or chadwm (a fork with installation script 
 - fish shell 
 - vim/neovim (see [Vundle](https://github.com/VundleVim/Vundle.vim))
 - logo-ls (not anymore)
+- [volantes cursors](https://github.com/varlesh/volantes-cursors) (see below)
 
 ### vim/neovim plugins
 - YouCompleteMe (C/Rust code) - needs to be installed manually and requires vim with python3
@@ -15,5 +16,13 @@ Now I use dwm, so check my dwm repo, or chadwm (a fork with installation script 
 - Gruvbox theme
 - lightline
 
+### volantes cursors
+When installed, you need to make `~/.icons/default/index.theme` and add this line:
+```
+[icon theme]
+Inherits=volantes_cursors
+```
+
 ## Wallpapers
 Check out the wallpapers branch to see my wallpapers.
+
