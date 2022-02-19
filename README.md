@@ -1,7 +1,8 @@
 # dotfiles
 My dotfiles.
 
-In this repo you can find my config files (.old_wm dir is for my old i3/sway configs, so don't use them).
+In this repo you can find my config files (.old_wm dir is for my old i3/sway configs, so don't use them).  
+Now I use dwm, so check my dwm repo, or chadwm (a fork with installation script and other things).
 
 ## Packages
 - fish shell 
