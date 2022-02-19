@@ -9,5 +9,11 @@ Now I use dwm, so check my dwm repo, or chadwm (a fork with installation script 
 - vim/neovim (see [Vundle](https://github.com/VundleVim/Vundle.vim))
 - logo-ls (not anymore)
 
+### vim/neovim plugins
+- YouCompleteMe (C/Rust code) - needs to be installed manually and requires vim with python3
+- NerdTree (icons and git support)
+- Gruvbox theme
+- lightline
+
 ## Wallpapers
 Check out the wallpapers branch to see my wallpapers.
