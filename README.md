@@ -19,7 +19,7 @@ Now I use dwm, so check my dwm repo (maybe the dwm-flexipatch!), or chadwm (a fo
 - Gruvbox theme
 - lightline
 
-Update (20/02/2023)
+Update (20/02/2023)  
 I've made another repo where I use [LazyVim](https://github.com/FrancescoXD/lazyvim-config).
 
 ### volantes cursors
