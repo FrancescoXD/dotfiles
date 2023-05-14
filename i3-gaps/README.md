@@ -6,6 +6,7 @@
 - picom
 - polybar
 - w3m
+- betterlockscreen
 - JetBrainsMono Nerd Font
 - nitrogen (used to select wallpapers):
 > nitrogen --set-scaled image.png
