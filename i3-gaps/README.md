@@ -9,7 +9,7 @@
 - betterlockscreen
 - JetBrainsMono Nerd Font
 - nitrogen (used to select wallpapers):
-> nitrogen --set-scaled image.png
+> `nitrogen --set-scaled image.png`
 > If you want to use `feh` you can, but you have to modify the i3's config
 
 ## I3 Config
