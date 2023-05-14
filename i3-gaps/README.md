@@ -6,6 +6,7 @@
 - picom
 - polybar
 - w3m
+- JetBrainsMono Nerd Font
 - nitrogen (used to select wallpapers):
 > nitrogen --set-scaled image.png
 > If you want to use `feh` you can, but you have to modify the i3's config
@@ -34,4 +35,8 @@ And you're done!
 
 ### Picom
 Right now is disabled, but I will enable it soon! However you can find the config in the config dir.
+
+## Optionals
+### Fonts
+Get the list of fonts by `fc-list`. Then find you're font and change in the `.Xresources` the font name.
 
