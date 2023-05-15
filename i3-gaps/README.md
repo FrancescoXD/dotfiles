@@ -6,7 +6,7 @@
 - picom
 - polybar
 - w3m
-- betterlockscreen
+- [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen/)
 - JetBrainsMono Nerd Font
 - nitrogen (used to select wallpapers):
 > `nitrogen --set-scaled image.png`  
@@ -15,7 +15,7 @@
 ## I3 Config
 Copy the content of `./config` to `~/.config`:
 ```
-$ cp -r ./config/* ~/.config/
+$ cp -r .config/* ~/.config/
 ```
 
 ### Xresources
