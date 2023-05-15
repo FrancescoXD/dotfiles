@@ -1,6 +1,8 @@
 # dotfiles
 My dotfiles.
 
+> Edit: I made a new i3-gaps config, take a look at `i3-gaps`!
+
 In this repo you can find my old config files (.old_wm dir is for my old i3/sway configs, so don't use them or use them as *kickstart*).  
 Now I use dwm, so check my dwm repo (maybe the dwm-flexipatch!), or chadwm (a fork with installation script and other things).
 

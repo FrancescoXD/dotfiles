@@ -9,11 +9,14 @@
 - betterlockscreen
 - JetBrainsMono Nerd Font
 - nitrogen (used to select wallpapers):
-> `nitrogen --set-scaled image.png`
-> If you want to use `feh` you can, but you have to modify the i3's config
+> `nitrogen --set-scaled image.png`  
+> If you want to use `feh` you can, but you have to modify the i3's config.
 
 ## I3 Config
-Copy the content of `./config` to `~/.config`!
+Copy the content of `./config` to `~/.config`:
+```
+$ cp -r ./config/* ~/.config/
+```
 
 ### Xresources
 Copy the `.Xresources` file to the `$HOME` path.
@@ -36,6 +39,7 @@ And you're done!
 
 ### Picom
 Right now is disabled, but I will enable it soon! However you can find the config in the config dir.
+> You can enable it just running `picom` in a terminal.
 
 ## Optionals
 ### Fonts
