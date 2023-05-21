@@ -7,7 +7,7 @@
 - polybar
 - w3m
 - [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen/)
-> To change the wallpaper use `betterlockscreen -w path/to/image.png`
+> To change the wallpaper use `betterlockscreen -u path/to/image.png`
 - JetBrainsMono Nerd Font
 - nitrogen (used to select wallpapers):
 > `nitrogen --set-scaled image.png`  
