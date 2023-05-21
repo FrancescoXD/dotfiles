@@ -23,7 +23,7 @@ font pango:monospace 8
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
 
-# Custom Stuff
+##### Custom Stuff #####
 # Set the background from nitrogen
 exec --no-startup-id nitrogen --restore
 # Set gaps
@@ -33,6 +33,7 @@ default_border pixel 1
 hide_edge_borders none
 # Start Polybar theme
 exec --no-startup-id bash ~/.config/polybar/launch.sh --hack
+bindsym $mod+b exec betterlockscreen -l
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
