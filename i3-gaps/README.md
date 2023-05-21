@@ -18,6 +18,13 @@ Copy the content of `./config` to `~/.config`:
 $ cp -r .config/* ~/.config/
 ```
 
+### Fonts
+There is a `fonts` dir in the repo. So you have to move it to `~/.local/share/fonts/`!
+```
+$ mkdir ~/.local/share/fonts/
+$ cp -r fonts/* ~/.local/share/fonts/
+```
+
 ### Xresources
 Copy the `.Xresources` file to the `$HOME` path.
 ```

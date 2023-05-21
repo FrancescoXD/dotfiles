@@ -47,7 +47,7 @@ URxvt.scrollBar: false
 URxvt.scrollBar_right: false
 URxvt.urgentOnBell: true
 URxvt.depth: 24
-URxvt.font: xft:JetBrainsMono Nerd Font:size=12
+URxvt.font: xft:CaskaydiaCove Nerd Font Mono:size=12
 
 ! Restore Ctrl+Shift+(c|v)
 URxvt.keysym.Shift-Control-V: eval:paste_clipboard
