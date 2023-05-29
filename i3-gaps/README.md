@@ -6,6 +6,7 @@
 - picom
 - polybar
 - w3m
+- flameshot
 - [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen/)
 > To change the wallpaper use `betterlockscreen -u path/to/image.png`
 - JetBrainsMono Nerd Font
@@ -57,7 +58,8 @@ Get the list of fonts by `fc-list`. Then find you're font and change in the `.Xr
 ## I3 Layout
 $mod = Win
 
-| Combo       | Description     |
-| ----------- | --------------- |
-| $mod + b | lock the screen |
+| Combo       | Description        |
+| ----------- | ------------------ |
+| $mod + b    | lock the screen    |
+| $mod + p    | make a screenshot  |
 

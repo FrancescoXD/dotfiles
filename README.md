@@ -34,3 +34,6 @@ Inherits=volantes_cursors
 ## Wallpapers
 Check out the wallpapers branch to see my wallpapers.
 
+## ZSH theme
+I'm loving the `eastwood` theme.
+
